@@ -39,11 +39,7 @@ Men web tizimlar, REST API, Telegram botlar va avtomatlashtirish loyihalarini ya
 
 [![Instagram](https://img.shields.io/badge/Instagram-@sunnat__acm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sunnat_acm)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" width="100%">
-</picture>
+
 
 [![Website](https://img.shields.io/badge/Website-chorshamov.uz-8AAC62?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chorshamov.uz)
 
@@ -52,3 +48,7 @@ Men web tizimlar, REST API, Telegram botlar va avtomatlashtirish loyihalarini ya
 > 💡 Programming is a way to turn ideas into reality.
 
 **© 2026 Sunnat Chorshamov**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+</picture>
